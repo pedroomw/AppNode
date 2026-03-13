@@ -1,0 +1,21 @@
+{
+  "name": "apptp01",
+  "version": "1.0.0",
+  "description": "Primer TP de Node",
+  "homepage": "https://github.com/pedroomw/AppNode#readme",
+  "bugs": {
+    "url": "https://github.com/pedroomw/AppNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroomw/AppNode.git"
+  },
+  "license": "ISC",
+  "author": "Pedro Malowicki",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
